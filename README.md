@@ -13,7 +13,7 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
 ---
 ## Demo
 <p align="center">
-  <img src="https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/Pizza%20Sales.gif" alt="Pizza Sales" />
+  <img src="https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/PizzaSales.gif" alt="PizzaSales" />
 </p>
 
 ![Pizza Sales](https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/Pizza%20Sales.gif)
