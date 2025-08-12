@@ -16,3 +16,10 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
   <img src="https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/PizzaSales.gif" alt="PizzaSales" />
 </p>
 
+## Snips of Pages
+# Home
+![Home](https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/Home.jpg)
+# High and Low
+![High and Low](https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/blob/main/High%20and%20Low.jpg)
+
+
