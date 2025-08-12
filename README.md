@@ -15,5 +15,4 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
 ## Demo Video
 
 <video src="https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/raw/main/Pizza%20Sales.mp4" controls width="720">
-  Your browser does not support the video tag.
 </video>
