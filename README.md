@@ -12,4 +12,8 @@ This report delivers a snapshot of pizza sales performance from **January to Dec
 - **Lowest Performer** → Spinach Pesto Pizza (by revenue).
 
 ---
-[![Pizza Sales](https://youtu.be/gpDdn1qUhgA?si=qGunVXla_Y2dSAP4)
+## Demo Video
+
+<video src="https://github.com/hasiburahman2016/PBI-Pizza-Sales-Report/raw/main/Pizza%20Sales.mp4" controls width="720">
+  Your browser does not support the video tag.
+</video>
